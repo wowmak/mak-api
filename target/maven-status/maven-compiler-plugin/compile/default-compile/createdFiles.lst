@@ -1,0 +1,7 @@
+org/mak/error/MakExceptionHandler.class
+org/mak/domain/RegisterRecord.class
+org/mak/model/RegisterDTO.class
+org/mak/service/MakService.class
+org/mak/repository/RegisterRecordRepository.class
+org/mak/controller/MakController.class
+org/mak/MakApp.class
