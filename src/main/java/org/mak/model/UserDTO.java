@@ -3,7 +3,7 @@ package org.mak.model;
 /**
  * The type Register dto.
  */
-public class RegisterDTO {
+public class UserDTO {
     /**
      * The Username.
      */
